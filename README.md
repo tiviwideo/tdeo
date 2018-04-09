@@ -1,0 +1,2 @@
+# tdeo
+Kodi repo
